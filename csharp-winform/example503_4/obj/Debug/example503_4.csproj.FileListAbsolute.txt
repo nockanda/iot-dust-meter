@@ -1,0 +1,13 @@
+C:\Users\wajang\source\repos\example503_4\example503_4\bin\Debug\example503_4.exe.config
+C:\Users\wajang\source\repos\example503_4\example503_4\bin\Debug\example503_4.exe
+C:\Users\wajang\source\repos\example503_4\example503_4\bin\Debug\example503_4.pdb
+C:\Users\wajang\source\repos\example503_4\example503_4\obj\Debug\example503_4.csprojAssemblyReference.cache
+C:\Users\wajang\source\repos\example503_4\example503_4\obj\Debug\example503_4.Properties.Resources.resources
+C:\Users\wajang\source\repos\example503_4\example503_4\obj\Debug\example503_4.csproj.GenerateResource.cache
+C:\Users\wajang\source\repos\example503_4\example503_4\obj\Debug\example503_4.csproj.CoreCompileInputs.cache
+C:\Users\wajang\source\repos\example503_4\example503_4\obj\Debug\example503_4.exe
+C:\Users\wajang\source\repos\example503_4\example503_4\obj\Debug\example503_4.pdb
+C:\Users\wajang\source\repos\example503_4\example503_4\bin\Debug\M2Mqtt.Net.dll
+C:\Users\wajang\source\repos\example503_4\example503_4\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\wajang\source\repos\example503_4\example503_4\obj\Debug\example503_4.Form1.resources
+C:\Users\wajang\source\repos\example503_4\example503_4\obj\Debug\example503_4.csproj.CopyComplete
